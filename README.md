@@ -2,7 +2,7 @@
 
 **本模版由[ResumeJob](https://resumejob.github.io/)贡献，ResumeJob能帮助你重新规划你的职业生涯。**
 
-## 如何写简历
+## 求职准备
 请参考文章：
 
 - [程序员如何写一份更好的简历](https://www.enginego.org/%E5%9F%BA%E7%A1%80/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/%E5%A6%82%E4%BD%95%E5%86%99%E4%B8%80%E4%BB%BD%E6%9B%B4%E5%A5%BD%E7%9A%84%E7%AE%80%E5%8E%86/)
@@ -10,6 +10,8 @@
 - [如何准备技术面试](https://www.enginego.org/%E5%9F%BA%E7%A1%80/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87/)
 
 - [程序员国外求职指南](https://www.enginego.org/%E5%9F%BA%E7%A1%80/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/%E7%A8%8B%E5%BA%8F%E5%91%98%E5%9B%BD%E5%A4%96%E6%B1%82%E8%81%8C%E6%8C%87%E5%8D%97/)
+
+- [系统设计面试 101](https://www.enginego.org/%E5%9F%BA%E7%A1%80/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E9%9D%A2%E8%AF%95-101/)
 
 ## 免费模版使用方法
 
@@ -22,7 +24,7 @@
 
 - 收费模版请通过[这里](https://resumejob.github.io/#price-table)下载。
 
-#### 收费模版只负责提供HTML代码以及解决HTML代码bug，购买前请确保懂得如何将HTML转换为PDF。
+#### 收费模版只负责提供HTML代码以及解决HTML代码bug，购买前请确保懂得如何将HTML转换为PDF。（默认提供了 Python 的解决方案）
 
 ![模版](https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/all.jpg) 
 ## 个人简介例句
@@ -32,15 +34,32 @@
 - 有良好的代码风格，通过添加注释提高代码可读性，注重代码质量，研读多个开源项目，学习改善代码的健壮性与扩展性。
 - 具备良好的代码编程习惯及文档编写能力，参与多个高性能网站架构设计与系统核心部分代码编写、重构，能进行技术攻关，突破关键技术瓶颈。
 - 负责根据公司业务及目标引进人才、培养新人、规划团队人员、并建立完善的绩效考核制度有效留住人才，提高工作效率。
-- 熟悉常用开发版的 Linux 服务器安装、配置和调优，熟悉常用开发环境如 **Apache、MySQL、Nginx** 等工具的部署、设置及调优，有集群经验优先。
+- 带领 10 人团队完成分布式系统的难点分析与架构设计工作，承担核心功能 代码编写，开发与维护系统核心模块。使用 Selenium 等工具协助持续集成 与自动化部署，保证代码的可靠和安全。
+- 基于海量数据，挖掘信息，建立模型，并将机器学习算法应用于业务环节， 提升公司各环节效率。调研新技术在大数据领域的应用价值，以技术驱动产 品，把最合适的算法应用到各种有挑战性的现实场景中。
+- 负责公司技术文档的编写以及维护，定期 Review 团队的代码，与团队共同 学习以及成⻓。
+- 熟悉常用开发版的 Linux 服务器安装、配置和调优，熟悉常用开发环境如 **Apache、MySQL、Nginx** 等工具的部署、设置及调优。
 - 有良好的代码编写习惯，具有良好的沟通、协作能力能力，有良好的职业道德和较强的工作责任感。
 - 理解操作系统中**进程、线程、死锁、虚拟化、文件系统**等原理和简单实现。
 - 熟悉Web编程，能够使用主流框架进行网络页面的开发。
+- 和产品经理密切配合，从需求出发，主导系统分析与架构设计工作，承担核心功能代码编写，开发与维护系统公用核心服务。
 - 有**大型互联网分布式系统**的架构设计和开发经验，拥抱新技术，有很强的学习能力。
 - 喜欢钻研语言底层与框架原理，熟悉多种算法、函数式开发等编程技术，能流畅阅读英文文档。
 - 思路清晰严谨，具有良好的代码编写习惯，善于倾听和团队合作。
 - 有扎实的计算机理论基础，**良好的算法与数据结构基础**，了解计算机基本原理与常见机制。
 - 善于与人沟通，良好的团队合作精神和高度的责任感，能够承受压力，有较强的吃苦耐劳和创新精神。
+- 主导技术难题攻关，解决各类潜在系统技术风险，保证系统的可靠性以及稳定性。
+- 深刻理解面向对象开发，具有较好的系统分析设计能力、文档撰写能力。
+- 对技术有强烈兴趣，学习能力强，技术视野广阔，乐于不断学习新知识；
+- 具备扎实的 **OOP** 及相关软件开发技能，能根据架构要求，开发设计可扩展，可复用，高性能的功能模块。
+- 掌握软件工程思想，能够对复杂任务分解，熟悉软件迭代开发方法，具备良好的沟通能力和解决问题的能力。
+
+### 前端：
+
+- 对前后端分离模式，可视化开发深入理解，对 Vue 和 react 有丰富的开发经验，具备一定的框架设计能力。
+- 对 Javascript 中闭包、函数式语言等概念有清晰的认知，对常见库的源码实现有了解。
+- 熟悉模块化、前端编译和构建工具，熟练运用主流的移动端 JS 库和开发框架，并深入理解其设计原理，例如：Zepto、React 等。
+- 熟悉 Node.js 开发，熟练使用 npm, webpack, gulp 等工具。熟悉前端性能的优化，熟悉使用 Chrome，Safari 等前端调试工具。
+- 熟悉 Node.js 以及 V8 的性能和稳定性优化，能对系统整体性能进行评估，解决内存瓶颈。
 
 ### 移动端：
 
@@ -61,6 +80,7 @@
 - 熟悉移动端生命周期，推送机制，熟练掌握第三方即时通讯 SDK 的集成和使用。
 - 熟练使用 MVC 模式进行项目设计，熟悉**单例，工厂模式**等常见的设计模式和通知机制。
 - 了解**多线程编程，内存管理机制**。熟练掌握 **delegate ，block** 等回调机制。
+- 良好的编码和文档习惯，能持续的关注和优化自己做的项目。
 - 熟练掌握集成第三方授权登录，第三方分享，第三方支付等技能。
 - 熟练掌握 JSON 解析，内存管理和性能优化以及多线程，熟悉使用 CocaTouch 框架等开源框架与 iOS 底层 SDK 的调用。
 - 对软件架构进行搭建，规划，优化应用架构逻辑，提升通信传输效率与安全性。
@@ -74,10 +94,14 @@
 - 掌握 **Django，Flask** 等开源框架设计原理及运行机制，熟悉 **LAMP/LNMP** 系统架构设计，有高并发 WEB 应用架构经验。
 - 熟悉 **Java 语言**，掌握 **Spring、Springboot** 等主流框架，了解 **Memcache、Redis** 等缓存组件与 **RabbitMQ** 异步处理机制。
 - 了解高可用、高并发，高负载的架构，具有分布式架构的系统开发能力。
+- 熟练掌握常见的关系型数据库以及非关系型数据库，理解其使用场景及限制。
 - 熟悉 **Spring、MyBatis、Hibernate 框架**，并参与设计多个高可用性项目。
 - 熟练使用 **Oracle/MySQL** 数据库，对于 **Mongodb** 等 NOSQL 数据库具有一定的了解，拥有一定的数据库设计能力和优化能力。
 - 熟悉 **TCP/IP、DNS** 等底层协议，精通 **HTTP 协议**，熟练掌握各种工具进行网络问题诊断。
 - 精通 **golang 协程，channal 和锁等机制**，对高并发、高可用架构系统有正确、深刻的理解，有分布式服务器开发经验。
+- Java 基础扎实, 熟练使用 spring, spring boot, mybatis等工具并了解其实现原理。
+- 熟悉 Tomcat、Weblogic，WAS 等主流应用服务器的环境搭建及维护。
+- 精通 MySQL 应用开发，熟悉数据库原理和常用性能优化技术。
 - 了解 **Django，Flask 框架**的设计和实现原理，熟悉分布式系统的设计和开发，对系统高可用有一定经验。
 - 熟悉 **Redis、MySQL** 等数据库，熟悉 **Shell脚本** 编写、Linux 系统及常用命令。
 - 两年以上 Go 项目开发经验，熟悉主流 Go 语言下常用的 RPC 框架，深入了解 Go 语言内部运行机制，对 Go 源码有一定的了解。
@@ -90,29 +114,39 @@
 - 扎实的 Python 基础，熟悉文件 I/O、多线程、装饰器、基础数据结构及模块化。
 - 熟练基于 **Scrapy** 框架进行分布式爬虫，利用 **Xpath，BeautifulSoup，Re** 进行数据清洗，并解决验证码，登录，Javascript混淆，等各种反爬措施。
 - 熟悉 Socket 网络编程、了解**多线程、多进程、异步I/O、I/O多路复用如 select、poll、epoll**的原理及使用。
+- 使用 Flask，SQLAlchemy, Mysql，Redis 协助完成数据管理模块，并通过测试工具优化 15% 后端 API 接口性能。
+- 协助运维监控 6台 后台服务器以及 3台Redis 服务器。保证 uptime 达到 99%。
 - 熟练使用 **Selenium, Puppeteer** 进行页面测试，构建单元测试，自动化测试
 - 熟悉 **Django web** 开发框架，熟悉 MVC 模型，熟悉中间件、Admin 站点管理、图片上传、分页，邮件传输。
 - 掌握 MySQL 数据库的基本原理与常用语法，了解 **MongoDB、Redis** 等 NoSQL 数据库；
 - 使用 **Scrapy** 框架对采集目标进行数据收集，跟踪网页链接构建分类信息字段分析目标网址，使用** Xpath, re **提取信息。通过抓包工具获取 Ajax 链接并解析 json 数据。
+
 
 ## 项目经验例句
 
 ### 通用
 - 独自负责客户端从无到有的产品设计，研发，流程图及开发文档，用两个月的时间独立开发了初版的 APP，集成了支付模块、文件下载，数据本地缓存功能。
 - 负责项目管理，产品研发部门的工作任务分配，工作细化划分，保证项目按时上线。
+- 与产品经理保持沟通，对订单管理模块进行维护与高效重构，一个月修复超过后台管理系统 30个 Bug。
 - 与设计、运营等合作部门沟通协作，推动产品的实现与最终效果的评估，制定产品的测试标准，上线标准，并进行数据跟踪分析。
 - 构建 **ip** 代理池，**cookies** 池，开发用户个人信息爬虫，编写各种反爬虫算法，爬取用户个人信息和微博内容。并负责数据的清洗、解析、爬取的去重以及进行数据挖掘与研究。
+- 作为软件开发团队的核心成员，为大数据应用设计开发高质量的软件平台。对微服务架构组件有实践经验，理解常见架构的高可用性与可扩展性。
+- 有项目云服务化或者相关开发以及项目调优，部署经验。熟悉大规模、高并发系统架构设计，能独立完成系统的设计及开发。
 
 ### 前端
 - 对 **ListView，ConvertView** 进行优化，并通过 **ViewHolder** 缓存 Item 条目，减少重复代码的冗余，减少 **30%** 页面加载时间。
 - 使用多个类实现不同功能，如 Loading 类负责加载数据和布局文件，Adapter 类负责 ListView 控件与展示数据。实现项目模块化开发，降低组件耦合度。
 - 使用 **AsyncSocket** 进行完成即时通讯功能，并协助组长完成客户端与嵌入式网的 **Socket** 对接与通信，实现通过 iOS 设备控制插座的开关、定时开关、温度检测及报警等 8个 功能。
-- 利用CTFramesetterRef绘制内容实现在线阅读功能，利用UITableViewCell高度自适应和ZXPAutoLayout布局实现消息发布功能。
-- 利用 **UI PLayer** 实现二维码/条形码的扫描与识别，自定义UITextField实现实时输入实时搜索功能。
+- 熟悉常见的前端调试工具，能够高保真还原设计稿，具备良好的代码风格以及接口、架构设计能力。熟悉 JS 性能优化，熟练解决各种浏览器兼容问题。
+- 深入理解 **W3C** 标准与 **ES** 规范，熟悉 **HTML、CSS、JavaScript** 等 **Web** 基础以及常用浏览器兼容方案。
+- 熟练掌握 PC 端和移动端的布局方式，如响应式布局以及流式布局，并能根据业务需求，封装高复用、可维护性好的前端组件。
+- 熟练掌握浏览器渲染原理以及机制，对至少一种主流前端框架有深入应用并能够深入理解其设计原理。
+- 参与开发、持续改进前端页面设计平台，通过通过开发工具、改进流程，保证前端业务开发的高效性。
+- 利用 **CTFramesetterRef** 绘制内容实现在线阅读功能，利用 **UITableViewCell** 高度自适应和 **ZXPAutoLayout** 布局实现消息发布功能。
+- 利用 **UI PLayer** 实现二维码/条形码的扫描与识别，自定义 **UITextField** 实现实时输入实时搜索功能。
 - 使用 **AVPlayer** 实现音频的在线播放、暂停、、快退快进等6个功能。
 - 利用 **CLLocationManager** 进行地理定位，规划步行、驾车等不同出行方式的线路，并通过不同时间段的地理位置，在地图上绘制轨迹信息，并附带详细的时间地址数据。
-- 对应用进行架构，兼容到 **iOS11** 最新版本，核心功能包括获取 **GPS**，二维码扫码。同时使用户可以进行评论与意见反馈。更新版本提示，龙腾卡号或者手机号验证码登陆方式。
-
+- 对应用进行架构，兼容到 **iOS11** 最新版本，核心功能包括获取 **GPS**，二维码扫码。同时使用户可以进行评论与意见反馈。
 - 使用**多线程**定时器实现图片轮播器效果，使用 CoreData 对首页数据进行数据储存以及实现搜索界面的模糊搜索功能。
 - 封装 FMDatabaseQueue 类防止多线程访问数据库死锁，修改后比起系统原生框架拥有较高的效率和更为方便的调用方式。
 - 使用** JavaScript **与原生** Objective-C **网页交互,实现点击网页按钮跳转功能。
@@ -124,16 +158,19 @@
 - I have defined and executed the technical roadmap for multiple startups. This involved designing and implementing infrastructure, backend and frontend architecture and building several engineering teams from scratch including hiring, training and selection of appropriate working practices.
 - I enjoy proactively finding structured, lasting solutions to interdisciplinary and complex problems with minimal dependency on other stakeholders. A strong believer in the performance of teams, previous management experience and my cross domain expertise allow me to significantly add value to a team in multiple ways. References available upon request.
 - Highly innovative. Good Analytical and Entrepreneurial skills that lead to find out newer ideas from existing systems and data.Highly adaptable. Continual self-learner. Enjoys working both as a team member and individual.
+- Leveraged responsive tools to consistently complete product deliverables ahead of schedule.
 - Designed and developed an auto tweeting utility that gave exposure to buyers and sellers in social media.
 
 ### Project
 - Revamped the entire back-end/front-end structure of Tradeshows section that helped to increase the traffic from 1500 visits/day to 5000 visits/day.
 - Developed team management module for in-house CRM system in PHP that helped managers to assign members and keep track of their performance by using comprehensive dashboards and reports.
+- Sourced, set up, and deployed Engineering order management system organizing and tracking support requests.
 - Design and developed different admin and front-end section of the application that provided a gateway to members to interact with each other as well as customer support.
 - Developed the customized FileNET Capture Application in VB.NET and MSSQL Server2000 that enhanced the basic functionality by adding role management system to have a complete control in different phases.
 - Collaborated with senior consultants (developers, designers, UX designers) and project/product managers in a small, agile team building responsive, cross-browser compatible and scalable web apps. Daily stand-up. Peer reviewing PR. Involved in front-end & back-end. Exposed to UX.
 - Developed the front-end of customers’websites and newsletters and of the company's own web portals.
 - Consultation for light & shadow mapping, and general rendering code written for Unity 3D engine.
+- Coordinated recruiting, interviewing, training of interns.
 - Implemented new shadowing and pseudo ambient occlusion rendering with fast performance.
 - Created and renovated websites for dozens of clients from many different industries. Attended client meetings to discuss their business goals and milestones. Client websites range from CMS-built to bespoke websites from the ground up. Development of a CRM application for a long-term client using PHP and AJAX.
 - Redesigned customer-facing websites and internal tools. Designed and implemented new products and features using Angular JS,Twitter Bootstrap and an internal API based on Django REST Framework.
